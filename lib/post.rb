@@ -1,6 +1,6 @@
 
 class Post
-  attr_accessor :title, :post
+  attr_accessor :title, :author
 
   @author.post << self
 
